@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_type">
+        <item>Premnagar-04</item>
+        <item>Bhatgaon-05</item>
+        <item>Pratappur-06</item>
+    </string-array>
+
+    <string-array name="Bhatgaon05">
+        <item>1 . LULH</item>
+        <item>2 . RAMGARH</item>
+        <item>3 . MAHULI</item>
+        <item>4 . KHOHIR</item>
+        <item>5 . KOLUHA</item>
+        <item>6 . AVANTIKAPUR</item>
+        <item>7 . UMAPUR</item>
+        <item>8 . NAVATOLA-1</item>
+        <item>9 . NAVATOLA 2</item>
+        <item>10 . SAPHA</item>
+        <item>11 . KUBERPUR</item>
+        <item>12 . BIHARPUR-1</item>
+        <item>13 . BIHARPUR-2</item>
+        <item>14 . BEGARIDAND</item>
+        <item>15 . NAVGAI-1</item>
+        <item>16 . NAVGAI-2</item>
+        <item>17 . KANTIPUR</item>
+        <item>18 . THADHPATHAR</item>
+        <item>19 . SEMRA</item>
+        <item>20 . VISHALPUR</item>
+        <item>21 . DEVDHI</item>
+        <item>22 . PASAL</item>
+        <item>23 . PANDARI</item>
+        <item>24 . KHAIRA</item>
+        <item>25 . KARAUTI A</item>
+        <item>26 . PADWARI</item>
+        <item>27 . KACHHIYA</item>
+        <item>28 . MOHRSOP</item>
+        <item>29 . UMAJHAR</item>
+        <item>30 . RASAUKI</item>
+        <item>31 . PALKEWRA</item>
+        <item>32 . BADWAR</item>
+        <item>33 . CHHATARANG</item>
+        <item>34 . GHUIDIH</item>
+        <item>35 . KAILASHNAGAR</item>
+        <item>36 . BASNARA</item>
+        <item>37 . KESAR</item>
+        <item>38 . KHODH</item>
+        <item>39 . INJANI-1</item>
+        <item>40 . INJANI 2</item>
+        <item>41 . TAMKI</item>
+        <item>42 . KARWAN</item>
+        <item>43 . ASURA</item>
+        <item>44 . BAANK</item>
+        <item>45 . KUDARGARH</item>
+        <item>46 . BANGAVA</item>
+        <item>47 . BAKI</item>
+        <item>48 . BABHANA</item>
+        <item>49 . DHUR</item>
+        <item>50 . PALADNOULEE</item>
+        <item>51 . KHARRA</item>
+        <item>52 . KUPPA</item>
+        <item>53 . MASANKI -1</item>
+        <item>54 . MASANKI 2</item>
+        <item>55 . BEDMI-1</item>
+        <item>56 . BEDMI 2</item>
+        <item>57 . LANJIT-1</item>
+        <item>58 . LANJIT-2</item>
+        <item>59 . SOUHAAR</item>
+        <item>60 . PUTAKI</item>
+        <item>61 . MAYURDHAKKI</item>
+        <item>62 . CHIKNI</item>
+        <item>63 . JAAZ</item>
+        <item>64 . KHADHAULI -1</item>
+        <item>65 . KHADHAULI 2</item>
+        <item>66 . CHENDRA -1</item>
+        <item>67 . CHENDRA 2</item>
+        <item>68 . TOTKO</item>
+        <item>69 . BHANDHI-1</item>
+        <item>70 . BHANDHI 2</item>
+        <item>71 . JHILMILI</item>
+        <item>72 . BHAKURA</item>
+        <item>73 . MAANDHAR</item>
+        <item>74 . ODHGI</item>
+        <item>75 . KALAMANJAN</item>
+        <item>76 . GIRJAPUR</item>
+        <item>77 . INDERPUR</item>
+        <item>78 . RAMPUR URF BHAVNAGAR</item>
+        <item>79 . CHAPDA</item>
+        <item>80 . ANANDPUR</item>
+        <item>81 . BHAWARKHOH</item>
+        <item>82 . KUPPI</item>
+        <item>83 . KARRI</item>
+        <item>84 . DHARSEDI-1</item>
+        <item>85 . DHARSEDI -2</item>
+        <item>86 . PARSIYA</item>
+        <item>87 . SANVARANVA</item>
+        <item>88 . GOVINDGARH</item>
+        <item>89 . BASKAR</item>
+        <item>90 . DANAULIKHURD</item>
+        <item>91 . TARKA</item>
+        <item>92 . BAIJNATHPUR</item>
+        <item>93 . DARRIPARA</item>
+        <item>94 . JAMDI -1</item>
+        <item>95 . GHOSA</item>
+        <item>96 . JAMDHI 2 (rajni)</item>
+        <item>97 . BHAIYATHAN-1</item>
+        <item>98 . BHAIYATHAN-2</item>
+        <item>99 . KHAIRI-1</item>
+        <item>100 . KHAIRI-2</item>
+        <item>101 . RAJABAHAR</item>
+        <item>102 . PATIYADAND</item>
+        <item>103 . DAVANASRA</item>
+        <item>104 . DAVNA-1</item>
+        <item>105 . DAVNA 2</item>
+        <item>106 . KARAUNTI B-1</item>
+        <item>107 . KARAUNTI B-2</item>
+        <item>108 . DANDAMORNI</item>
+        <item>109 . RAISRI</item>
+        <item>110 . RAISRA -1</item>
+        <item>111 . RAISRA 2</item>
+        <item>112 . PALMA</item>
+        <item>113 . PAHADAMORNI</item>
+        <item>114 . KATINDA</item>
+        <item>115 . CHANDRAMEDHA</item>
+        <item>116 . PODI</item>
+        <item>117 . NARKALO</item>
+        <item>118 . PAKNI-1</item>
+        <item>119 . PAKNI 2</item>
+        <item>120 . ANROKHA-1</item>
+        <item>121 . ANROKHA 2</item>
+        <item>122 . CHANDARPUR</item>
+        <item>123 . TAIYA</item>
+        <item>124 . KOTEYA</item>
+        <item>125 . JAGDISHPUR</item>
+        <item>126 . KEWATALI</item>
+        <item>127 . SATYANAGAR-1</item>
+        <item>128 . SATYANAGAR-2</item>
+        <item>129 . CHAINPUR</item>
+        <item>130 . MAHULI</item>
+        <item>131 . SAMAULI</item>
+        <item>132 . KARKOTI</item>
+        <item>133 . KENAPARA</item>
+        <item>134 . KEVRA-1</item>
+        <item>135 . KEVRA-2</item>
+        <item>136 . KUSMUSI-1</item>
+        <item>137 . KUSMUSI-2</item>
+        <item>138 . KURRIDIH -1</item>
+        <item>139 . KURRIDIH 2</item>
+        <item>140 . KHADHAPARA</item>
+        <item>141 . BADHASRA-1</item>
+        <item>142 . BADHASRA 2</item>
+        <item>143 . KARAUDAMUDHA</item>
+        <item>144 . SONPUR -1</item>
+        <item>145 . SONPUR 2</item>
+        <item>146 . BHAVRAHI-1</item>
+        <item>147 . BHAVRAHI-2</item>
+        <item>148 . BANSAPARA</item>
+        <item>149 . DABRIPARA</item>
+        <item>150 . KHUTRAPARA</item>
+        <item>151 . GANGAUTI</item>
+        <item>152 . NAVAPARA</item>
+        <item>153 . SHIVAPRASAD NAGAR-1</item>
+        <item>154 . SHIVAPRASAD NAGAR 2</item>
+        <item>155 . BIRAMTAAL</item>
+        <item>156 . JUR-1</item>
+        <item>157 . JUR 2</item>
+        <item>158 . KHADAGAVAN</item>
+        <item>159 . BANJA-1</item>
+        <item>160 . BANJA-2</item>
+        <item>161 . BANJA-3</item>
+        <item>162 . RAGDA</item>
+        <item>163 . CHOPAN</item>
+        <item>164 . SIRSI-1</item>
+        <item>165 . SIRSI-2</item>
+        <item>166 . MASIRA</item>
+        <item>167 . SUNDARPUR-1</item>
+        <item>168 . SUNDARPUR-2</item>
+        <item>169 . KASKELA-1</item>
+        <item>170 . KASKELA 2</item>
+        <item>171 . BAIJNATHPUR-1</item>
+        <item>172 . BAIJNATHPUR-2</item>
+        <item>173 . SALKA-1</item>
+        <item>174 . SALKA 2</item>
+        <item>175 . BHATAGAON-1</item>
+        <item>176 . BHATAGAON-2</item>
+        <item>177 . BHATAGAON-3</item>
+        <item>178 . BHATAGAON-4</item>
+        <item>179 . BHATAGAON-5</item>
+        <item>180 . BHATAGAON-6</item>
+        <item>181 . BHATAGAON-7</item>
+        <item>182 . BISAHI</item>
+        <item>183 . KAPSARA</item>
+        <item>184 . BARAUDHI-1</item>
+        <item>185 . BARAUDHI -2</item>
+        <item>186 . DUMRIYA</item>
+        <item>187 . TELGAON-1</item>
+        <item>188 . TELGAON-2</item>
+        <item>189 . TELGAON-3</item>
+        <item>190 . TELGAON-4</item>
+        <item>191 . CHUNGADI-1</item>
+        <item>192 . CHUNGADI -2</item>
+        <item>193 . CHUNGADI-3</item>
+        <item>194 . KARKOLI</item>
+        <item>195 . KHONPA-1</item>
+        <item>196 . KHONPA-2</item>
+        <item>197 . BARAUL</item>
+        <item>198 . KENAPARA</item>
+        <item>199 . DHARTIPARA</item>
+        <item>200 . BATRA-1</item>
+        <item>201 . BATRA-2</item>
+        <item>202 . BATRA-3</item>
+        <item>203 . BATRA-4</item>
+        <item>204 . MALGA</item>
+        <item>205 . LAKSHMIPUR-1</item>
+        <item>206 . LAKSHMIPUR 2</item>
+        <item>207 . BARPARA</item>
+        <item>208 . BUNDIYA-1</item>
+        <item>209 . BUNDIYA 2</item>
+        <item>210 . DHARAMPUR</item>
+        <item>211 . RAJKISHORNAGAR</item>
+        <item>212 . SUDAMANGAR</item>
+        <item>213 . RAAI-1</item>
+        <item>214 . RAAI- 2</item>
+        <item>215 . SONPUR SU</item>
+        <item>216 . KARSU</item>
+        <item>217 . KASKELA-1</item>
+        <item>218 . KASKELA-2</item>
+        <item>219 . KUMDA</item>
+        <item>220 . GANGIKOT</item>
+        <item>221 . GOVINDPUR-1</item>
+        <item>222 . GOVINDPUR-2</item>
+        <item>223 . GOVINDPUR-3</item>
+        <item>224 . GOVINDPUR-4</item>
+        <item>225 . GORAKHNATHPUR</item>
+        <item>226 . SHIVNANDANPUR -1</item>
+        <item>227 . SHIVNANDANPUR-2</item>
+        <item>228 . SHIVNANDANPUR-3</item>
+        <item>229 . SHIVNANDANPUR-4</item>
+        <item>230 . SHIVNANDANPUR-5</item>
+        <item>231 . KUJNAGAR-1</item>
+        <item>232 . KUJNAGAR-2</item>
+        <item>233 . KUJNAGAR-3</item>
+        <item>234 . SATAPTA-1</item>
+        <item>235 . SATAPTA-2</item>
+        <item>236 . SATAPTA-3</item>
+        <item>237 . HARRATIKRA</item>
+        <item>238 . JAYNAGAR-1</item>
+        <item>239 . JAYNAGAR-2</item>
+        <item>240 . JAYNAGAR-3</item>
+        <item>241 . JAYNAGAR-4</item>
+        <item>242 . KARAMPUR-1</item>
+        <item>243 . KARAMPUR-2</item>
+        <item>244 . BIRPUR</item>
+        <item>245 . KASALGIRI</item>
+        <item>246 . BALRAMPUR</item>
+        <item>247 . SHIVSAGARPUR</item>
+        <item>248 . JUDVANI</item>
+        <item>249 . KARAVAN-1</item>
+        <item>250 . KARAVAN-2</item>
+        <item>251 . KARAVAN-3</item>
+        <item>252 . BIHARPUR</item>
+        <item>253 . GAJAADHARPUR</item>
+        <item>254 . GANGAPUR -1</item>
+        <item>255 . GANGAPUR-2</item>
+        <item>256 . TULSI</item>
+        <item>257 . MOHNPUR</item>
+        <item>258 . BRIJNAGAR</item>
+        <item>259 . HARIPUR</item>
+        <item>260 . JAGATPUR</item>
+        <item>261 . SUNDARAGANJ</item>
+        <item>262 . PATHKPUR</item>
+        <item>263 . CHHATARPUR-1</item>
+        <item>264 . CHHATARPUR-2</item>
+        <item>265 . KALYANPUR-1</item>
+        <item>266 . KALYANPUR-2</item>
+        <item>267 . KALYANPUR-3</item>
+        <item>268 . AKHORAKLA</item>
+        <item>269 . PODIPA</item>
+        <item>270 . MAJIRA-1</item>
+        <item>271 . MAJIRA 2</item>
+        <item>272 . DVARIKANAGAR-1</item>
+        <item>273 . DVARIKANAGAR-2</item>
+        <item>274 . LATORI-1</item>
+        <item>275 . LATORI-2</item>
+        <item>276 . ANUJNAGAR</item>
+        <item>277 . HEERADABRI</item>
+        <item>278 . MAHESHPUR-1</item>
+        <item>279 . MAHESHPUR 2</item>
+        <item>280 . KANAKPUR</item>
+        <item>281 . PARVATIPUR</item>
+        <item>282 . GOPALPUR</item>
+        <item>283 . KARATMA</item>
+        <item>284 . PAHADGAON</item>
+        <item>285 . KAMALPUR</item>
+        <item>286 . GANESHPUR-1</item>
+        <item>287 . GANESHPUR -2</item>
+        <item>288 . SILFILI -1</item>
+        <item>289 . SILFILI 2</item>
+        <item>290 . SAMABALPUR-1</item>
+        <item>291 . SAMABALPUR 2</item>
+        <item>292 . SONVAHI</item>
+        <item>293 . MADANPUR</item>
+        <item>294 . PANDONGAR</item>
+        <item>295 . AJABANAGAR-1</item>
+        <item>296 . AJABANAGAR-2</item>
+        <item>297 . BHAGVANPUR KHURD</item>
+        <item>298 . AJIRMA -1</item>
+        <item>299 . AJIRMA -2</item>
+        <item>300 . AJIRMA -3</item>
+        <item>301 . MAHAVIRPUR</item>
+        <item>302 . MORBHANJ</item>
+        <item>303 . SANJAYNAGAR</item>
+        <item>304 . THAKURPUR</item>
+        <item>305 . VISHUNPUR KHURD</item>
+        <item>306 . AMAGANB</item>
+
+    </string-array>
+
+    <string-array name="Premnagar04">
+        <item>Premn</item>
+        <item>Premn</item>
+        <item>Premn</item>
+        <item>Premn</item>
+        <item>Premn</item>
+    </string-array>
+
+    <string-array name="Pratappur06">
+        <item>Pratapr</item>
+        <item>Pratapr</item>
+        <item>Pratapr</item>
+        <item>Pratapr</item>
+        <item>Pratapr</item>
+    </string-array>
+</resources>
